@@ -8,7 +8,7 @@ feign:
         readTimeout: 60000
 spring:
   rabbitmq:
-    host: http://192.168.99.100/
+    host: http://192.168.99.100
     port: 5672
     username: guest
     password: guest
